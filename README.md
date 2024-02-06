@@ -6,3 +6,5 @@
 
 Приложение могут использовать несколько пользователей. Для работы с приложением необходимо зарегистрироваться. После авторизации пользователю отображается его список дел.
 ![login](https://github.com/mikki1391/IndividualTask1/assets/82397059/f1e6e8e3-2357-4f00-9bf6-75308a5930d7)
+![Task](https://github.com/mikki1391/IndividualTask1/assets/82397059/11b02cae-38a6-4088-a7b5-09071e87856a)
+![Execution](https://github.com/mikki1391/IndividualTask1/assets/82397059/b680936d-6371-41bb-80e3-bbc7840d107c)
