@@ -1,0 +1,24 @@
+D:\уни\Дубна\2 курс\ООП\Индивидуальное\CSharptask-list\bin\Debug\WindowsFormsApp1.exe.config
+D:\уни\Дубна\2 курс\ООП\Индивидуальное\CSharptask-list\bin\Debug\WindowsFormsApp1.exe
+D:\уни\Дубна\2 курс\ООП\Индивидуальное\CSharptask-list\bin\Debug\WindowsFormsApp1.pdb
+D:\уни\Дубна\2 курс\ООП\Индивидуальное\CSharptask-list\obj\Debug\Task manager.csproj.AssemblyReference.cache
+D:\уни\Дубна\2 курс\ООП\Индивидуальное\CSharptask-list\obj\Debug\WindowsFormsApp1.authorizationInterface.resources
+D:\уни\Дубна\2 курс\ООП\Индивидуальное\CSharptask-list\obj\Debug\WindowsFormsApp1.ToDoList.resources
+D:\уни\Дубна\2 курс\ООП\Индивидуальное\CSharptask-list\obj\Debug\WindowsFormsApp1.Form2.resources
+D:\уни\Дубна\2 курс\ООП\Индивидуальное\CSharptask-list\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\уни\Дубна\2 курс\ООП\Индивидуальное\CSharptask-list\obj\Debug\Task manager.csproj.GenerateResource.cache
+D:\уни\Дубна\2 курс\ООП\Индивидуальное\CSharptask-list\obj\Debug\Task manager.csproj.CoreCompileInputs.cache
+D:\уни\Дубна\2 курс\ООП\Индивидуальное\CSharptask-list\obj\Debug\WindowsFormsApp1.exe
+D:\уни\Дубна\2 курс\ООП\Индивидуальное\CSharptask-list\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\hoob1\source\repos\mikki1391\IndividualTask1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\hoob1\source\repos\mikki1391\IndividualTask1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\hoob1\source\repos\mikki1391\IndividualTask1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\hoob1\source\repos\mikki1391\IndividualTask1\obj\Debug\Task manager.csproj.AssemblyReference.cache
+C:\Users\hoob1\source\repos\mikki1391\IndividualTask1\obj\Debug\WindowsFormsApp1.authorizationInterface.resources
+C:\Users\hoob1\source\repos\mikki1391\IndividualTask1\obj\Debug\WindowsFormsApp1.ToDoList.resources
+C:\Users\hoob1\source\repos\mikki1391\IndividualTask1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\hoob1\source\repos\mikki1391\IndividualTask1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\hoob1\source\repos\mikki1391\IndividualTask1\obj\Debug\Task manager.csproj.GenerateResource.cache
+C:\Users\hoob1\source\repos\mikki1391\IndividualTask1\obj\Debug\Task manager.csproj.CoreCompileInputs.cache
+C:\Users\hoob1\source\repos\mikki1391\IndividualTask1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\hoob1\source\repos\mikki1391\IndividualTask1\obj\Debug\WindowsFormsApp1.pdb
